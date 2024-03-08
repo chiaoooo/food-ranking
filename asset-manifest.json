@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.401d2b22.css",
-    "main.js": "/static/js/main.7c9c51d3.js",
-    "static/js/453.baa465e9.chunk.js": "/static/js/453.baa465e9.chunk.js",
-    "index.html": "/index.html",
-    "main.401d2b22.css.map": "/static/css/main.401d2b22.css.map",
-    "main.7c9c51d3.js.map": "/static/js/main.7c9c51d3.js.map",
-    "453.baa465e9.chunk.js.map": "/static/js/453.baa465e9.chunk.js.map"
+    "main.css": "/food-ranking/static/css/main.401d2b22.css",
+    "main.js": "/food-ranking/static/js/main.8423d665.js",
+    "static/js/453.baa465e9.chunk.js": "/food-ranking/static/js/453.baa465e9.chunk.js",
+    "index.html": "/food-ranking/index.html",
+    "main.401d2b22.css.map": "/food-ranking/static/css/main.401d2b22.css.map",
+    "main.8423d665.js.map": "/food-ranking/static/js/main.8423d665.js.map",
+    "453.baa465e9.chunk.js.map": "/food-ranking/static/js/453.baa465e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.401d2b22.css",
-    "static/js/main.7c9c51d3.js"
+    "static/js/main.8423d665.js"
   ]
 }
